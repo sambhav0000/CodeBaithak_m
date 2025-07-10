@@ -1,0 +1,6 @@
+[submodule "code-baithak-frontend"]
+	path = code-baithak-frontend
+	url = https://github.com/Vedantadlak/code-baithak-frontend
+[submodule "code-baithak-backend"]
+	path = code-baithak-backend
+	url = https://github.com/Vedantadlak/code-baithak-backend
